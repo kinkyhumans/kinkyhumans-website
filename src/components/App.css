@@ -1,0 +1,39 @@
+.App {
+    text-align: center;
+}
+
+.App-logo {
+    max-width: 250px;
+    max-height: 250px;
+    margin: 100px 0 50px 0;
+}
+
+.App-description p, .App-takepart p {
+    max-width: 450px;
+    display: block;
+    margin: 0 auto 20px auto;
+    font-size: 1.3em;
+}
+
+.App p, .App a {
+    color: #fff;
+}
+
+.App-takepart .asterisk {
+    font-size: 0.8em;
+}
+
+.App-description p {
+    font-family: playfair-display, serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+.App hr {
+    max-width: 100px;
+    margin: 50px auto;
+    margin-bottom: 50px;
+    border-color: #fff;
+    border-width: 1px;
+}
